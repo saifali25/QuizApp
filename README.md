@@ -1,0 +1,2 @@
+# QuizApp
+ Well, I have completed my Quiz App today and have learnt a great deal about the following:  •MVC (Model View Controller-is a software design pattern used for developinh interfaces that divides the related programming logic intro three interconnected elements)  •SaveInstance (for saving state of screen while rotating screen) . . Furthermore, I used the styleable toast library to make custom toast messages. Styleable Toast Library belongs to AndroidX which is sort of an upgraded version of android support library.
